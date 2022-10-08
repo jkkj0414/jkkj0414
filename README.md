@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![badges](https://img.shields.io/badge/Python-F47A9E?style=for-the-badge&logo=Python&logoColor=white)
 <br/>
 <br/>
-<br/>
+
 ### 💗Github💗
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jkkj0414&show_icons=true&theme=radical)
 </div>
