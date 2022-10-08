@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hello, I'm jakyung
+## 👋 Hello, I'm Jakyung
 
 <div align=center>
  <!-- 
