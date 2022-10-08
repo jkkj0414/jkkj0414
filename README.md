@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hello, I'm Jakyung
+## 🙌 Welcome Jakyung's GitHub
 
 <div align=center>
  <!-- 
 ![header](https://capsule-render.vercel.app/api?type=slice&height=150&text=Hello&fontSize=50&rotate=10&fontAlign=90&fontAlignY=20&fontColor=FFFF&&color=0:F1F0AE,800:E9407A&desc=I'm%20JaKyung&descSize=25&descAlign=90&descAlignY=40)
 -->
 
-### 💗Skills💗
+### 💗 Skills 💗
 ![badges](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![badges](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![badges](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)<br/>
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### 💗Github💗
+### 💗 Github 💗
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jkkj0414&show_icons=true&theme=radical)
 </div>
