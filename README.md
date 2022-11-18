@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### 💗 Blog 💗
+### 💗 Contect me 💗
 [![badges](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@jkkj0414)
+[![badges](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rlawkrud15@gmail.com)
 <br/>
 <br/>
 	
-### 💗 Github 💗
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jkkj0414&show_icons=true&theme=radical)
 </div>
