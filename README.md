@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### 💗 Blog 💗
-![badges](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white)
+[![badges](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@jkkj0414)
 <br/>
 <br/>
 	
